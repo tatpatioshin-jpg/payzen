@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="132" height="32" viewBox="0 0 132 32" fill="none">
+  <rect x="2" y="2" width="28" height="28" rx="8" fill="#2F6FED"/>
+  <path d="M10 16.5l5 5 7-11" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="38" y="22" font-family="Inter, Arial" font-size="16" fill="#1b1f24" font-weight="700">PayZen</text>
+</svg>
